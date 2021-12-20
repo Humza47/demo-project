@@ -36,6 +36,7 @@ href="{{ asset('css/themes/vertical-gradient-menu-template/style.css') }}">
 <link rel="stylesheet" type="text/css" href="{{ asset('css/pages/dashboard-modern.css') }}">
 <link rel="stylesheet" type="text/css" href="{{ asset('css/pages/intro.css') }}">
 <link rel="stylesheet" type="text/css" href="{{ asset('css/pages/app-calendar.css') }}">
+ <link rel="stylesheet" type="text/css" href="css/pages/login.css">
 <!-- END: Page Level CSS-->
 <!-- BEGIN: Custom CSS-->
 <link rel="stylesheet" type="text/css" href="{{ asset('css/laravel-custom.css') }}">
